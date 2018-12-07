@@ -1,0 +1,9 @@
+D:\Visual Studio Project 2018\Text to Speech\Text to Speech\bin\Debug\Text to Speech.exe.config
+D:\Visual Studio Project 2018\Text to Speech\Text to Speech\bin\Debug\Text to Speech.exe
+D:\Visual Studio Project 2018\Text to Speech\Text to Speech\bin\Debug\Text to Speech.pdb
+D:\Visual Studio Project 2018\Text to Speech\Text to Speech\obj\Debug\Text_to_Speech.Form1.resources
+D:\Visual Studio Project 2018\Text to Speech\Text to Speech\obj\Debug\Text_to_Speech.Properties.Resources.resources
+D:\Visual Studio Project 2018\Text to Speech\Text to Speech\obj\Debug\Text to Speech.csproj.GenerateResource.Cache
+D:\Visual Studio Project 2018\Text to Speech\Text to Speech\obj\Debug\Text to Speech.exe
+D:\Visual Studio Project 2018\Text to Speech\Text to Speech\obj\Debug\Text to Speech.pdb
+D:\Visual Studio Project 2018\Text to Speech\Text to Speech\obj\Debug\Text to Speech.csprojResolveAssemblyReference.cache

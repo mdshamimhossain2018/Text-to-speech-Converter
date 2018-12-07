@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Text to Speech", "Text to Speech\Text to Speech.csproj", "{C9EA9CEE-FF41-4DF0-A7B6-1F894CCCD575}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{BFB0EB7D-EB50-4502-8D20-AB42E49C610D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9EA9CEE-FF41-4DF0-A7B6-1F894CCCD575}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9EA9CEE-FF41-4DF0-A7B6-1F894CCCD575}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9EA9CEE-FF41-4DF0-A7B6-1F894CCCD575}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9EA9CEE-FF41-4DF0-A7B6-1F894CCCD575}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFB0EB7D-EB50-4502-8D20-AB42E49C610D}.Debug|Any CPU.ActiveCfg = Debug
+		{BFB0EB7D-EB50-4502-8D20-AB42E49C610D}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
